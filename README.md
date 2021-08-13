@@ -7,7 +7,7 @@ All those who will register in the app will be showed in the suggestions for add
     </p>
     
 ## TO USE THE PROJECT FOR OWN PURPOSE USING CHATENGINE.IO API
- Clone the repository into your local machine and an <b>env</b> folder into the project. Login to [Chatengine.io](https://chatengine.io/ ) and provide the projectId and ApiKey obtained from here in <b> .env</b> folder in the variables namely 
+ Clone the repository into your local machine and add an <b>env</b> folder into the project. Login to [Chatengine.io](https://chatengine.io/ ) and provide the projectId and ApiKey obtained from here in <b> .env</b> folder in the variables namely 
 REACT_APP_CHAT_ENGINE_ID and REACT_APP_CHAT_ENGINE_API_KEY
 
 ## Tech Stack 🚀
